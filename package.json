@@ -29,7 +29,9 @@
     "Dark Theme",
     "Night Theme",
     "Accessible Theme",
-    "color-theme"
+    "color-theme",
+    "clearview",
+    "clearview dark theme"
   ],
   "contributes": {
     "themes": [
