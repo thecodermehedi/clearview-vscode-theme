@@ -1,6 +1,6 @@
 <div align="center">
 
-![ClearView](./assets/logo/logo.png)
+![ClearView](./assets/logo.png)
 
 ### A VS Code dark theme that combines elegant design and enhanced focus.
 
