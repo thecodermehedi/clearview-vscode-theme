@@ -10,7 +10,7 @@
 
 - 🌿 Clean and minimalistic design
 - 🎨 Inspired color palette for better code readability
-- 🔍 Syntax highlighting optimized for `HTML`, `CSS`, `SCSS`, `Javascript`, `Typescript`
+- 🔍 Syntax highlighting optimized for `HTML`, `CSS`, `Javascript`
 - 🔍 Enhanced focus on important code elements
 
 ## ⚙️ Installation
@@ -26,7 +26,7 @@
 
 ## What's new?
 
-Click here to go to the [Changelog](https://github.com/devbytemehedi/clearview-vscode-theme/blob/master/CHANGELOG.md)
+Click here to go to the [Changelog](https://github.com/devbytemehedi/clearview-vscode-theme/blob/main/CHANGELOG.md)
 
 ## 🖼️ Screenshots
 
