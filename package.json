@@ -2,7 +2,7 @@
   "name": "clearview-dark",
   "displayName": "ClearView Dark Theme",
   "description": "A VS Code dark theme that combines elegant design and enhanced focus.",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "icon": "assets/logo.png",
   "publisher": "devbytemehedi",
   "license": "MIT",
