@@ -4,6 +4,11 @@
 
 ### A VS Code dark theme that combines elegant design and enhanced focus.
 
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/devbytemehedi.clearview-dark.svg)
+![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/devbytemehedi.clearview-dark.svg)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/devbytemehedi.clearview-dark.svg)
+![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/devbytemehedi.clearview-dark.svg)
+
 </div>
 
 ## ✨ Features
