@@ -7,7 +7,7 @@
 ![Version](https://img.shields.io/visual-studio-marketplace/v/devbytemehedi.clearview-dark?style=for-the-badge)
 ![Installs](https://img.shields.io/visual-studio-marketplace/i/devbytemehedi.clearview-dark?style=for-the-badge)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/devbytemehedi.clearview-dark?style=for-the-badge&logo=docusign&logoColor=white&colorA=2b303b&colorB=96E072)](https://dub.sh/clearview)
-[![rating](https://img.shields.io/visual-studio-marketplace/stars/devbytemehedi.clearview-dark?style=for-the-badge&logo=reverbnation&logoColor=white&colorA=2b303b&colorB=FFE66D)](https://marketplace.visualstudio.com/items?itemName=devbytemehedi.clearview-dark&ssr=false#review-details)
+<!-- [![rating](https://img.shields.io/visual-studio-marketplace/stars/devbytemehedi.clearview-dark?style=for-the-badge&logo=reverbnation&logoColor=white&colorA=2b303b&colorB=FFE66D)](https://marketplace.visualstudio.com/items?itemName=devbytemehedi.clearview-dark&ssr=false#review-details) -->
 </div>
 
 ## ⚙️ Easy Installation & 📚 Usage
