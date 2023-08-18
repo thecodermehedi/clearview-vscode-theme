@@ -4,34 +4,23 @@
 
 ### A VS Code dark theme that combines elegant design and enhanced focus.
 
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/devbytemehedi.clearview-dark.svg)
-![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/devbytemehedi.clearview-dark.svg)
-![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/devbytemehedi.clearview-dark.svg)
-![Visual Studio Marketplace Last Updated](https://img.shields.io/visual-studio-marketplace/last-updated/devbytemehedi.clearview-dark.svg)
-
+![Version](https://img.shields.io/visual-studio-marketplace/v/devbytemehedi.clearview-dark?style=for-the-badge)
+![Installs](https://img.shields.io/visual-studio-marketplace/i/devbytemehedi.clearview-dark?style=for-the-badge)
+[![Downloads](https://img.shields.io/visual-studio-marketplace/d/devbytemehedi.clearview-dark?style=for-the-badge&logo=docusign&logoColor=white&colorA=2b303b&colorB=96E072)](https://dub.sh/clearview)
+[![rating](https://img.shields.io/visual-studio-marketplace/stars/devbytemehedi.clearview-dark?style=for-the-badge&logo=reverbnation&logoColor=white&colorA=2b303b&colorB=FFE66D)](https://marketplace.visualstudio.com/items?itemName=devbytemehedi.clearview-dark&ssr=false#review-details)
 </div>
 
-## ✨ Features
+## ⚙️ Easy Installation & 📚 Usage
 
-- 🌿 Clean and minimalistic design
-- 🎨 Inspired color palette for better code readability
-- 🔍 Syntax highlighting optimized for `HTML`, `CSS`, `Javascript`
-- 🔍 Enhanced focus on important code elements
+1. Open the **Extensions** sidebar on Visual Studio Code
 
-## ⚙️ Installation
+   `View → Extensions`
+2. Search for **ClearView Dark** 
+3. Click **Install** to install it.
+4. Click **Reload** to reload your editor.
+5. `Code/File > Preferences > Theme > Color Theme >` **ClearView Dark**
+6. 🌟 Enjoy and [Rate five-stars](https://marketplace.visualstudio.com/items?itemName=devbytemehedi.clearview-dark&ssr=false#review-details).
 
-1. Open **Extensions** sidebar panel in Visual Studio Code. `View → Extensions`
-1. Search for `ClearView Dark`
-1. Click **Install**
-1. Click **Reload**
-
-## 📚 Usage
-
-➡️ `File > Preferences > Theme > Color Theme >` **ClearView Dark**
-
-## What's new?
-
-Click here to go to the [Changelog](https://github.com/devbytemehedi/clearview-vscode-theme/blob/main/CHANGELOG.md)
 
 ## 🖼️ Screenshots
 
@@ -65,4 +54,4 @@ Authored by [Mehedi Hasan](https://dub.sh/mhdev)
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT](https://github.com/devbytemehedi/clearview-vscode-theme/blob/main/LICENSE.md)
