@@ -107,7 +107,7 @@
         "punctuation.definition.string.end.js"
       ],
       "settings": {
-        "foreground": "#6A77D8"
+        "foreground": "#8C97EA"
       }
     },
     {
@@ -129,10 +129,12 @@
         "punctuation.definition.comment.scss",
         "punctuation.definition.comment.js",
         "punctuation.definition.comment.html",
-        "comment.block.html"
+        "comment.block.html",
+        "comment.block.css"
       ],
       "settings": {
-        "foreground": "#6d6f7c"
+        "foreground": "#6d6f7c",
+        "fontStyle": "italic"
       }
     },
     {
@@ -423,7 +425,7 @@
     {
       "scope": ["support.type.property-name.json"],
       "settings": {
-        "foreground": "#6A77D8"
+        "foreground": "#5C78FF"
       }
     },
     {
